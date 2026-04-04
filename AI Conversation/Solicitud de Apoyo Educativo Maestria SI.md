@@ -1,0 +1,9 @@
+Claude necesito me ayudes a redactar la solicitud de apoyo educativo para culminar lo que me queda pendiente de la Maestria en Sistema de la Informacion en la UCAB. En tal sentido, de presentar sobre que es la Maestria y por que es util para mi actual trabajo, o que valor puede traer para el equipo de Packet Core. Recuerda que trabajo en como especialista en Packet Core desde 2019, Anexo mi CV[[Raul_Santana_CV (1).pdf]]  . 
+Actualmente, me falta cursar las siguientes materias:
+- Inteligencia Artificial: Redes Neuronales y Machine Learning
+- Seminario II
+- Trabajo de Grado de Maestria
+y actualmente, estoy cursando la Materia Big data, el cual empece el mes de marzo. Utiliza esta pagina para estimar tiempo y costo por semestre. En el presupuesto, toma en el cuenta la materia de Big Data y calcula la diferencia de pago de la maestria desde Mayo, osea por mes actualmente estoy pagando 120$ y el semestre empezo en marzo, resta la diferencia de pago para este semestre.
+Toma como referencia la siguiente pagina [UCAB](https://postgrado.ucab.edu.ve/estudio/maestria-en-sistemas-de-informacion/)
+
+Ahora debo describir el tema del trabajo de grado, tema que habiamos discutido era *Propuesta de un Sistema de Información basado en Ingeniería de Datos para la Estimación de la Calidad de Experiencia (QoE) mediante la correlación de indicadores de señalización en operadoras de telecomunicaciones móviles*, actualmente en la red manejamos indicadores basicos de attach failure, handover, entre otros. Mi propuesta es identificar a traves de logs y contadores, que tipo de servicios se estan viendo afectados y como identificar lo que esta afectando el servicio o la red. Si concideras que se debe reescribir el titulo puedes decirmelo. Cualquier otra informacion que necesites puedes solicitarmela.
