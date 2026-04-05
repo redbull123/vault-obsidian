@@ -23,7 +23,7 @@
 ## Temporary containers
 
 ```
-docker run --rm
+docker run -it --rm ## to delete when finish
 
 docker ps -a ##used to determinate name, id, status, 
 ```
