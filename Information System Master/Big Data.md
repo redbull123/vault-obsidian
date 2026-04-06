@@ -19,7 +19,6 @@
 > hadoop y nosql son las unicas bases de datos que se usan?
 - **Analisis y Exposicion** : se aplican analiticas para encontrar patrones ocultos y correlaciones. Finalmente, los resultados se visualizan mediante tableros de control interactivos o se exponen para el consumo de otras aplicaciones a traves de APIs.
 
-
 ## Data Lake
 - **Raw Data** : Se almacena el nivel de detalle mas pequeno y granular posible. Mantener los datos sin resumir maximiza la capacidad de extraer nuevos insights en el futuro.
 - **Inmutabilidad** : Los datos nunca se actualizan ni se eliminan; simplemente se agrega una nueva version.
@@ -36,7 +35,7 @@ El analisis predictivo se refiere a las probabilidades de prediccion empleadas p
 
 El analisis prescriptivo se aplica para predecir eventos futuros e impulsar decisiones proactivas fuera de los limites de la interaccion humana,
 
-
+![[Pasted image 20260405123849.png]]
 # Second Section
 
 ## Sistemas Distribuidos, escabilidad y distribucion de los datos
@@ -46,7 +45,6 @@ El analisis prescriptivo se aplica para predecir eventos futuros e impulsar deci
 ### Transparencia en la distribucion
 
 **Tipos**
-
 
 | Transparencia | Descripcion |
 | ------------- | ----------- |
